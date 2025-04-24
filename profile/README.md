@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://astralhost.cloud/assets/logo.png" alt="AstralHost Logo" width="120"/>
+  <img src="https://astralhost.cloud/logo.gif" alt="AstralHost Logo" width="120"/>
 </p>
 
 <h1 align="center">🌌 AstralHost</h1>
@@ -66,6 +66,6 @@ Ogni progetto ha una sua licenza all’interno del repository. Dai un’occhiata
 ---
 
 <p align="center">
-  <strong>✨ AstralHost – Hosting che brilla ✨</strong><br>
+  <strong>🚀 AstralHost 🚀</strong><br>
   <em>Con noi, anche il tuo progetto raggiunge le stelle.</em>
 </p>
