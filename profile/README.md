@@ -5,7 +5,7 @@
 <h1 align="center">🌌 AstralHost</h1>
 
 <p align="center">
-  <em>Hosting che brilla – per developer, gamer e aziende.</em><br>
+  <em>Hosting per developer, gamer e aziende.</em><br>
   <a href="https://astralhost.cloud">🌐 Sito Web</a> •
   <a href="mailto:support@astralhost.cloud">📧 Contattaci</a>
 </p>
