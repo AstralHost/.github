@@ -29,14 +29,6 @@
 - Web Hosting con pannello moderno
 ---
 
-## 🧠 Cosa troverai qui
-
-📁 Repository ufficiali:
-- ⚙️ Egg Pterodactyl customizzati
-- 🔄 Script di automazione
-- 📊 Dashboard e sistemi interni
-- 🌐 Template frontend per i clienti
-
 📦 Work in progress? Seguici per rimanere aggiornato!
 
 ---
