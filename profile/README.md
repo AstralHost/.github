@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/kYtq29r.gif" alt="AstralHost Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/AstralHost/.github/refs/heads/main/profile/logo.gif" alt="AstralHost Logo" width="120"/>
 </p>
 
 <h1 align="center">🌌 AstralHost</h1>
