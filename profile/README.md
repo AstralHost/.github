@@ -23,12 +23,10 @@
 **AstralHost** offre hosting moderno e performante per progetti di ogni tipo. La nostra missione è rendere l'hosting **semplice, veloce e accessibile** a tutti.
 
 🎯 **Servizi principali**:
-- Hosting Minecraft (Paper, Forge, Modpack, ecc.)
+- Hosting Game Server (Paper, Forge, Modpack, ecc.)
 - VPS con KVM
 - Bot Hosting (Discord, Telegram)
-- Egg custom per Pterodactyl
 - Web Hosting con pannello moderno
-
 ---
 
 ## 🧠 Cosa troverai qui
