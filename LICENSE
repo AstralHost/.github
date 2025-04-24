@@ -24,11 +24,10 @@ SOFTWARE.
 
 ### 🚫 Branding & Content Restrictions
 
-I seguenti elementi **non sono coperti dalla licenza MIT** e **non possono essere copiati, modificati o riutilizzati** in alcun modo senza consenso scritto da AstralHost:
+The following elements are **NOT covered by the MIT License** and **cannot be copied, modified, or reused** in any way without explicit consent from AstralHost:
 
-- Logo e identità visiva "AstralHost"
-- Immagini, banner, GIF e contenuti multimediali nel repository
-- File `README.md` e ogni altra documentazione grafica o testuale associata al brand
+- The "AstralHost" logo and visual identity
+- Images, banners, GIFs, and multimedia content in the repository
+- The `README.md` file and any other branding-related documentation
 
-Per richieste di uso commerciale o permessi di utilizzo del brand:
-📧 Contattaci a support@astralhost.cloud
+For commercial use or permission to use the brand, please contact us at support@astralhost.cloud
