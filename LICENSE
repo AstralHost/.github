@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 AstralHosting
+Copyright (c) 2025 AstralHost
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### 🚫 Branding & Content Restrictions
+
+I seguenti elementi **non sono coperti dalla licenza MIT** e **non possono essere copiati, modificati o riutilizzati** in alcun modo senza consenso scritto da AstralHost:
+
+- Logo e identità visiva "AstralHost"
+- Immagini, banner, GIF e contenuti multimediali nel repository
+- File `README.md` e ogni altra documentazione grafica o testuale associata al brand
+
+Per richieste di uso commerciale o permessi di utilizzo del brand:
+📧 Contattaci a support@astralhost.cloud
