@@ -5,9 +5,9 @@
 <h1 align="center">🌌 AstralHost</h1>
 
 <p align="center">
-  <em>Hosting per developer, gamer e aziende.</em><br>
-  <a href="https://astralhost.cloud">🌐 Sito Web</a> •
-  <a href="mailto:support@astralhost.cloud">📧 Contattaci</a>
+  <em>Hosting for developers, gamers, and businesses.</em><br>
+  <a href="https://astralhost.cloud">🌐 Website</a> •
+  <a href="mailto:support@astralhost.cloud">📧 Contact Us</a>
 </p>
 
 ---
@@ -18,44 +18,37 @@
 
 ---
 
-## 🚀 Chi siamo
+## 🚀 About Us
 
-**AstralHost** offre hosting moderno e performante per progetti di ogni tipo. La nostra missione è rendere l'hosting **semplice, veloce e accessibile** a tutti.
+**AstralHost** provides modern and high-performance hosting for all kinds of projects. Our mission is to make hosting **simple, fast, and accessible** to everyone.
 
-🎯 **Servizi principali**:
-- Hosting Game Server (Paper, Forge, Modpack, ecc.)
-- VPS con KVM
+🎯 **Main Services**:
+- Game Server Hosting (Paper, Forge, Modpacks, etc.)
+- VPS with KVM
 - Bot Hosting (Discord, Telegram)
-- Web Hosting con pannello moderno
----
-
-📦 Work in progress? Seguici per rimanere aggiornato!
+- Web Hosting with a modern panel
 
 ---
 
-## 📈 Badge & Status
-
-![GitHub Org](https://img.shields.io/badge/org-AstralHost-5865F2?style=for-the-badge&logo=github)
-![Issues Welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=for-the-badge&logo=github)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fastralhost.cloud&style=for-the-badge)
+📦 Work in progress? Follow us to stay updated!
 
 ---
 
-## 🤝 Collabora con noi
+## 🤝 Collaborate with Us
 
-Hai un'idea? Vuoi partecipare? Siamo aperti a **pull request**, **collaborazioni** e nuove **iniziative open-source**.
+Got an idea or want to work with us? We're always open to new **partnerships** and **collaborations**.
 
-> 💌 Contattaci o apri una issue nel progetto che ti ispira!
+> 💌 Send us an email at [support@astralhost.cloud](mailto:support@astralhost.cloud)
 
 ---
 
-## 🛡️ Licenza
+## 🛡️ License
 
-Ogni progetto ha una sua licenza all’interno del repository. Dai un’occhiata al file `LICENSE`.
+Each project has its own license included in the repository. Check out the `LICENSE` file.
 
 ---
 
 <p align="center">
   <strong>🚀 AstralHost 🚀</strong><br>
-  <em>Con noi, anche il tuo progetto raggiunge le stelle.</em>
+  <em>With us, your project reaches the stars.</em>
 </p>
