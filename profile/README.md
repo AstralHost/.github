@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/AstralHost/.github/refs/heads/main/profile/logo.gif" alt="AstralHost Logo" width="120"/>
 </p>
 
-<h1 align="center">🌌 AstralHost</h1>
+<h1 align="center">🌌 AstralHosting</h1>
 
 <p align="center">
   <em>Hosting for developers, gamers, and businesses.</em><br>
-  <a href="https://astralhost.cloud">🌐 Website</a> •
-  <a href="mailto:support@astralhost.cloud">📧 Contact Us</a>
+  <a href="https://astralhosting.cloud">🌐 Website</a> •
+  <a href="mailto:support@astralhosting.cloud">📧 Contact Us</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 Got an idea or want to work with us? We're always open to new **partnerships** and **collaborations**.
 
-> 💌 Send us an email at [support@astralhost.cloud](mailto:support@astralhost.cloud)
+> 💌 Send us an email at [support@astralhosting.cloud](mailto:support@astralhosting.cloud)
 
 ---
 
